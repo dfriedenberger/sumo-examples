@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2020-04-13 11:59:57.472378 by $Id$ via randomTrips.py
+  options: -n frankfurt-bahnhof.net.xml <doubleminus>seed 42 <doubleminus>fringe-factor 40 -p 21.879005 -o rail.trips.xml -e 3600 <doubleminus>vehicle-class rail <doubleminus>vclass rail <doubleminus>prefix rail <doubleminus>fringe-start-attributes departSpeed="max" <doubleminus>min-distance 2400 <doubleminus>trip-attributes departLane="best" <doubleminus>validate
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="rail_rail" vClass="rail">
+    </vType>
+    <trip id="rail0" depart="0.00" departLane="best" departSpeed="max" from="48906578" to="20697184#1" type="rail_rail"/>
+</routes>
