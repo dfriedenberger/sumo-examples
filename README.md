@@ -70,3 +70,7 @@ cat frankfurt-bahnhof.sumocfg
 ...
 ```
 
+### Start Simulation with sumo-gui
+```
+sumo-gui -c frankfurt-bahnhof.sumocfg
+```
