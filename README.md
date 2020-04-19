@@ -2,7 +2,7 @@
 
 Simulation of Frankfurt central station using the real departure schedule. 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RFYjQs4Jr7Q/0.jpg)](https://www.youtube.com/watch?v=YRFYjQs4Jr7Q)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RFYjQs4Jr7Q/0.jpg)](https://www.youtube.com/watch?v=RFYjQs4Jr7Q)
 
 ## Installation
 
