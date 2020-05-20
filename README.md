@@ -72,5 +72,16 @@ cat frankfurt-bahnhof.sumocfg
 
 ### Start Simulation with sumo-gui
 ```
+sumo -c frankfurt-bahnhof.sumocfg
+```
+
+
+### Start Simulation with sumo-gui
+```
 sumo-gui -c frankfurt-bahnhof.sumocfg
+```
+
+### Run Sumo with access to TraCi
+```
+python test-traci.py 
 ```
