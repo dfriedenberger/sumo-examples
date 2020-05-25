@@ -3,10 +3,11 @@
 
 
 <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+
     <vType id="train" vClass="rail" length="150" speedFactor="0.9" decel="1" accel="1"/>
     <vType id="train2" vClass="rail" length="150" speedFactor="1.5" decel="1" accel="1"/>
 
     <trip id="trip_0" type="train" depart="0.00" from="gneE20" to="gneE16" arrivalSpeed="0"/>
-    <trip id="trip_1" type="train2" depart="20.00" from="gneE20" to="gneE16" arrivalSpeed="0"/>
+    <trip id="trip_1" type="train2" depart="30.00" from="gneE20" to="gneE16" arrivalSpeed="0"/>
 
 </routes>

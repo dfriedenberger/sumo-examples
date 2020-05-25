@@ -27,7 +27,7 @@
 
     <output>
         <netstate-dump value="out/netstatedump.xml" />
-         <lanechange-output value="out/lanechanges.out.xml"/>
+        <emission-output value="out/emission.out.xml"/>
     </output>
 
     <gui_only>

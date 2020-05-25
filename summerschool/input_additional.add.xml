@@ -14,4 +14,11 @@
     </rerouter>
 
 
+
+    <timedEvent type="SaveTLSStates" source="gneJ11" dest="out/tls_state.xml"/>
+    <timedEvent type="SaveTLSStates" source="gneJ14" dest="out/tls_state.xml"/>
+    <timedEvent type="SaveTLSStates" source="gneJ17" dest="out/tls_state.xml"/>
+    <timedEvent type="SaveTLSStates" source="gneJ2" dest="out/tls_state.xml"/>
+    <timedEvent type="SaveTLSStates" source="gneJ8" dest="out/tls_state.xml"/>
+    
  </additional>
